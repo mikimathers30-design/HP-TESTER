@@ -1,0 +1,5 @@
+Untuk build lokal, generate Gradle Wrapper dulu:
+
+  gradle wrapper --gradle-version 8.9
+
+Atau install Android Studio dan buka project ini — Studio akan generate wrapper otomatis.
